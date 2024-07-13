@@ -1,2 +1,3 @@
-# book-layout
-Book layout.  Just getting started.
+# 1stbook.bauska.org
+
+Book layout.  Topics; Einstein, Crop Circles, UFO's.
